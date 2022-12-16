@@ -1,5 +1,5 @@
 # Titre majeur
-## Sous-titre
+## Le sous-titre du conflit
 - git init
 - git log
 - git status
